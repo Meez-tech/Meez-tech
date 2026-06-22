@@ -11,4 +11,4 @@ Most of what I build is private client work. A couple of small things in the ope
 
 Mostly TypeScript, React/Next, React Native, Node, and Supabase — with LLMs and agents wired in. I build with Claude Code every day.
 
-[ahmed.colabz.net](https://ahmed.colabz.net) · [LinkedIn](https://linkedin.com/in/a--mohsen) · a.moataz5@gmail.com
+[ahmed.letscolabz.com](https://ahmed.letscolabz.com) · [LinkedIn](https://linkedin.com/in/a--mohsen) · a.moataz5@gmail.com
