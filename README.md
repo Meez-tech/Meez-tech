@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B4C9,100:8B3FE8&height=200&section=header&text=Ahmed%20Mohsen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20AI%20Builder%20%C2%B7%20Technical%20Co-Founder&descAlignY=58&descSize=20" width="100%" alt="Ahmed Mohsen" />
 
-<a href="https://colabz.ai">
+<a href="https://ahmed.colabz.net">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=16B4C9&center=true&vCenter=true&width=820&lines=I+ship+from+a+sentence+to+a+product+%E2%80%94+solo;7%2B+years+building+AI+products+end-to-end;React+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+LLMs+%C2%B7+Claude+Code;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA+%E2%80%94+building+for+the+world" alt="typing intro" />
 </a>
 
 <p>
   <a href="https://linkedin.com/in/a--mohsen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://colabz.ai"><img src="https://img.shields.io/badge/Portfolio-colabz.ai-8B3FE8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ahmed.colabz.net"><img src="https://img.shields.io/badge/Website-ahmed.colabz.net-8B3FE8?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="mailto:a.moataz5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Meez-tech&style=for-the-badge&color=16B4C9&label=PROFILE+VIEWS" alt="profile views" />
 </p>
